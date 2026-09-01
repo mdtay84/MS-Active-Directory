@@ -34,5 +34,6 @@ Next, I created three OUs for the three departments I will have in this company:
 ![image](images/MS_AD_2.png)
 
 I created some users and assigned them to one of the groups of policies specific to each department in the company.  The departments each have their own policies specific to the needs of what their roles require. 
+
 ![image](images/MS_AD_3.png)
  
